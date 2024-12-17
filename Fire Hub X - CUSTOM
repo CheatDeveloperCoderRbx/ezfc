@@ -1,5 +1,5 @@
 game:GetService("StarterGui"):SetCore("SendNotification",{
-    Title = "Fire Hub X - Custom";
+    Title = "Loading - Script";
     Text = "Made by tyrel batutuy. And Custom Made By @kiedexecutor";
             })
 
@@ -81,8 +81,8 @@ TextLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel.Size = UDim2.new(0, 200, 0, 24)
 TextLabel.Font = Enum.Font.SourceSans
-TextLabel.Text = "Fire X Hub (No Hat Version)"
-TextLabel.TextColor3 = Color3.fromRGB(226, 147, 36)
+TextLabel.Text = "Fire Hub X - Custom"
+TextLabel.TextColor3 = Color3.fromRGB(1, 7, 36)
 TextLabel.TextSize = 15.000
 
 Close.Name = "Close"
@@ -92,7 +92,7 @@ Close.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Close.Position = UDim2.new(0.941176474, 0, 0, 0)
 Close.Size = UDim2.new(0, 24, 0, 24)
 Close.Font = Enum.Font.SourceSans
-Close.Text = "X"
+Close.Text = "Close"
 Close.TextColor3 = Color3.fromRGB(226, 147, 36)
 Close.TextSize = 28.000
 Close.TextWrapped = true
@@ -114,7 +114,7 @@ Fe1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Fe1.Position = UDim2.new(0, 0, 0.0416666679, 0)
 Fe1.Size = UDim2.new(0, 68, 0, 29)
 Fe1.Font = Enum.Font.SourceSans
-Fe1.Text = "Fe Scripts 1"
+Fe1.Text = "Script Page 1"
 Fe1.TextColor3 = Color3.fromRGB(226, 147, 36)
 Fe1.TextSize = 14.000
 Fe1.MouseButton1Click:Connect(function()
@@ -131,7 +131,7 @@ Fe2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Fe2.Position = UDim2.new(0, 0, 0.1875, 0)
 Fe2.Size = UDim2.new(0, 68, 0, 29)
 Fe2.Font = Enum.Font.SourceSans
-Fe2.Text = "Fe Scripts 2"
+Fe2.Text = "Scripts Page 2"
 Fe2.TextColor3 = Color3.fromRGB(226, 147, 36)
 Fe2.TextSize = 14.000
 Fe2.MouseButton1Click:Connect(function()
@@ -148,7 +148,7 @@ Fe3.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Fe3.Position = UDim2.new(0, 0, 0.324999988, 0)
 Fe3.Size = UDim2.new(0, 68, 0, 29)
 Fe3.Font = Enum.Font.SourceSans
-Fe3.Text = "Fe Scripts 3"
+Fe3.Text = "Scripts Page 3"
 Fe3.TextColor3 = Color3.fromRGB(226, 147, 36)
 Fe3.TextSize = 14.000
 Fe3.MouseButton1Click:Connect(function()
@@ -165,7 +165,7 @@ Net1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Net1.Position = UDim2.new(0, 0, 0.479166657, 0)
 Net1.Size = UDim2.new(0, 68, 0, 29)
 Net1.Font = Enum.Font.SourceSans
-Net1.Text = "Netless Bypass"
+Net1.Text = "Netless/Bypass"
 Net1.TextColor3 = Color3.fromRGB(226, 147, 36)
 Net1.TextSize = 12.000
 Net1.MouseButton1Click:Connect(function()
